@@ -1,6 +1,7 @@
 # aboutjava
-java 成神之路
-针对本文
+java 成神之路 
+
+原文链接http://www.hollischuang.com/archives/489
 
 一、基础篇
 JVM
