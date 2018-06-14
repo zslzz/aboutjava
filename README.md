@@ -1,5 +1,4 @@
-# aboutjava
-java 成神之路 
+# java 各个知识点清单
 
 原文链接http://www.hollischuang.com/archives/489
 
